@@ -12,7 +12,7 @@
   <a href="https://github.com/Ryan27-27"><img src="https://img.shields.io/badge/GitHub-Ryan27--27-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/aryan-adityaa27/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/RyanLm_27"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Knight" /></a>
-  <img src="https://img.shields.io/badge/DSA-750%2B%20problems-2563eb?style=for-the-badge" alt="750 plus DSA problems" />
+  <img src="https://img.shields.io/badge/Coding%20Problems-1000%2B%20Combined-2563eb?style=for-the-badge" alt="1000 plus combined coding problems" />
 </p>
 
 ---
@@ -207,7 +207,7 @@ Projects are grouped by the engineering problem they explore, rather than by pro
 <p align="center">
   <a href="https://leetcode.com/RyanLm_27"><img src="https://img.shields.io/badge/LeetCode-RyanLm__27-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
   <img src="https://img.shields.io/badge/Contest%20rank-Knight-6d28d9?style=for-the-badge" alt="Knight rank" />
-  <img src="https://img.shields.io/badge/Problems%20solved-750%2B-16a34a?style=for-the-badge" alt="750 plus problems solved" />
+  <img src="https://img.shields.io/badge/Coding%20Problems-1000%2B%20Combined-16a34a?style=for-the-badge" alt="1000 plus combined coding problems" />
   <img src="https://img.shields.io/badge/Peak%20contest%20rating-1871-2563eb?style=for-the-badge" alt="Peak contest rating 1871" />
 </p>
 
