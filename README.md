@@ -1,11 +1,11 @@
 <!-- Aryan Adityaa | Profile README | Midnight / cyan / indigo -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1020,45:172554,100:0891b2&text=Aryan%20Adityaa&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Systems%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Security&descAlignY=60&descSize=18" width="100%" alt="Aryan Adityaa — Backend Systems, AI Engineering and Security" />
+  <img src="https://img.shields.io/badge/ARYAN%20ADITYAA-SECURITY%20%7C%20SYSTEMS%20%7C%20AI-0b1020?style=for-the-badge" width="100%" alt="Aryan Adityaa — Backend Systems, AI Engineering and Security" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryan27-27"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+systems+that+stay+correct+under+load.;I+design+event-driven+backends+and+reliable+APIs.;I+explore+LLM+agents%2C+RAG%2C+and+AI+evaluation.;I+care+about+security+from+design+through+deployment." alt="Engineering focus" /></a>
+  <a href="https://github.com/Ryan27-27"><img src="https://img.shields.io/badge/BUILDING-RELIABLE%20BACKENDS-0891b2?style=for-the-badge" alt="Engineering focus" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ My projects span backend engineering, distributed systems, AI infrastructure, ap
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ryan27-27/Ryan27-27/main/assets/cyber-engineering.svg" width="100%" alt="3D-inspired cybersecurity and engineering systems illustration" />
+  <img src="https://img.shields.io/badge/SECURITY-ENGINEERING-0891b2?style=for-the-badge" width="100%" alt="3D-inspired cybersecurity and engineering systems illustration" />
 </p>
 
 ## Selected work
@@ -229,4 +229,4 @@ Projects are grouped by the engineering problem they explore, rather than by pro
 </p>
 
 <p align="center"><i>Interested in building reliable backend platforms, useful AI systems, and security tooling.</i></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,55:172554,100:0b1020" width="100%" alt="" /></p>
+<p align="center"><img src="https://img.shields.io/badge/SECURE%20BY%20DESIGN-RELIABLE%20BY%20ENGINEERING-172554?style=for-the-badge" width="100%" alt="" /></p>
