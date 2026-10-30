@@ -39,6 +39,27 @@ My projects span backend engineering, distributed systems, AI infrastructure, ap
   <img src="https://raw.githubusercontent.com/Ryan27-27/Ryan27-27/main/assets/cyber-engineering.svg" width="100%" alt="3D-inspired cybersecurity and engineering systems illustration" />
 </p>
 
+## Security Research & Responsible Disclosure
+
+My security work combines hands-on vulnerability research with application-security testing and defensive engineering. I focus on understanding how weaknesses expose data or undermine trust, validating findings carefully, and communicating practical remediation—not just running tools.
+
+### Research findings
+
+- **Sensitive data exposure — GUVNL ePayment Portal:** Identified publicly discoverable exposure of personal information associated with an estimated **30M+ users in Gujarat** through advanced Google search techniques (Google dorking). I responsibly disclosed the issue and provided remediation guidance; the issue was subsequently resolved.
+- **SQL injection — university student portal:** Identified and responsibly disclosed a high-severity SQL injection vulnerability that could put sensitive student records at risk. The finding was resolved. The key defensive lesson is to use parameterized queries, validate authorization at the data boundary, and avoid constructing SQL from untrusted input.
+
+### Practical security experience
+
+- **Web & API security:** SQL injection, broken authentication and access control, CSRF, API-key leakage, and business-logic testing.
+- **Testing workflow:** Reconnaissance and enumeration, manual request and payload analysis, automated verification, impact assessment, and responsible disclosure.
+- **Tools used in labs and assessments:** Burp Suite, OWASP ZAP, Nmap, Wireshark, SQLMap, Recon-ng, Shodan, Postman, and Kali Linux.
+- **Continuous learning:** PortSwigger Web Security Academy labs and TryHackMe practice, covering common web vulnerabilities and defensive mitigations.
+- **Security engineering:** SAST/DAST, secrets and dependency scanning, threat detection, MITRE ATT&CK mapping, and security risks in RAG and LLM-based applications.
+
+I keep sensitive reproduction details out of public write-ups to avoid exposing affected users or systems. Findings are described at a high level, with emphasis on impact, responsible disclosure, and remediation.
+
+---
+
 ## Selected work
 
 Projects are grouped by the engineering problem they explore, rather than by programming language.
