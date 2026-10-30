@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryan27-27"><img src="https://img.shields.io/badge/GitHub-Ryan27--27-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://leetcode.com/RyanLm_27"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Knight" /></a>
-  <img src="https://img.shields.io/badge/DSA-750%2B%20problems-2563eb?style=flat-square" alt="750 plus DSA problems" />
-  <img src="https://komarev.com/ghpvc/?username=Ryan27-27&style=flat-square&color=0891b2&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/Ryan27-27"><img src="https://img.shields.io/badge/GitHub-Ryan27--27-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aryan-adityaa27/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/RyanLm_27"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Knight" /></a>
+  <img src="https://img.shields.io/badge/DSA-750%2B%20problems-2563eb?style=for-the-badge" alt="750 plus DSA problems" />
 </p>
 
 ---
@@ -27,12 +27,16 @@ My projects span backend engineering, distributed systems, AI infrastructure, ap
 
 ## Engineering interests
 
-<p>
-  <img src="https://img.shields.io/badge/Backend%20%26%20APIs-0f766e?style=flat-square" alt="Backend and APIs" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-1d4ed8?style=flat-square" alt="Distributed systems" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Agents-6d28d9?style=flat-square" alt="AI and agents" />
-  <img src="https://img.shields.io/badge/Application%20Security-b91c1c?style=flat-square" alt="Application security" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-0369a1?style=flat-square" alt="Data engineering" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20%26%20APIs-0f766e?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend and APIs" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-1d4ed8?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Distributed systems" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Agents-6d28d9?style=for-the-badge&logo=openai&logoColor=white" alt="AI and agents" />
+  <img src="https://img.shields.io/badge/Application%20Security-b91c1c?style=for-the-badge&logo=owasp&logoColor=white" alt="Application security" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-0369a1?style=for-the-badge&logo=apachespark&logoColor=white" alt="Data engineering" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ryan27-27/Ryan27-27/main/assets/cyber-engineering.svg" width="100%" alt="3D-inspired cybersecurity and engineering systems illustration" />
 </p>
 
 ## Selected work
@@ -210,17 +214,17 @@ Projects are grouped by the engineering problem they explore, rather than by pro
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryan27-27&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan27-27&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
+  <a href="https://github.com/Ryan27-27?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/Ryan27-27?tab=stars"><img src="https://img.shields.io/badge/Interests-Open%20Source-7c3aed?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open source interests" /></a>
 </p>
-<p align="center">
-  <img width="76%" src="https://streak-stats.demolab.com?user=Ryan27-27&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+
+<p align="center"><i>If a stats card fails to load, the projects and contribution history remain available directly on GitHub.</i></p>
 
 ## Connect
 
 <p align="center">
   <a href="https://github.com/Ryan27-27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aryan-adityaa27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/RyanLm_27"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
