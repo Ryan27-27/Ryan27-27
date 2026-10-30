@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b18"/><stop offset=".55" stop-color="#101c3d"/><stop offset="1" stop-color="#071b2c"/></linearGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#24416d" stroke-width="1" opacity=".45"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/><rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+<g stroke="#2563eb" stroke-width="2" opacity=".65" fill="none"><path d="M120 205H345L410 160H790L860 205H1080"/><path d="M210 305H365L430 265H770L835 305H1000"/><path d="M600 75V130M600 290V350"/></g>
+<g fill="#0b1730" stroke="url(#cyan)" stroke-width="2">
+ <rect x="70" y="135" width="170" height="120" rx="14"/><rect x="960" y="135" width="170" height="120" rx="14"/>
+ <rect x="100" y="155" width="110" height="22" rx="5"/><rect x="100" y="185" width="110" height="22" rx="5"/><rect x="100" y="215" width="110" height="22" rx="5"/>
+ <rect x="990" y="155" width="110" height="22" rx="5"/><rect x="990" y="185" width="110" height="22" rx="5"/><rect x="990" y="215" width="110" height="22" rx="5"/>
+</g>
+<g filter="url(#glow)">
+ <path d="M600 105L700 150V250L600 305L500 250V150Z" fill="#0b2545" stroke="url(#cyan)" stroke-width="4"/>
+ <path d="M600 135L670 170V235L600 275L530 235V170Z" fill="#102d54" stroke="url(#violet)" stroke-width="2"/>
+ <path d="M600 165L635 185V220L600 240L565 220V185Z" fill="url(#cyan)" opacity=".9"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#e5f4ff">
+ <text x="155" y="112" font-size="19" font-weight="700">SECURITY</text><text x="1045" y="112" font-size="19" font-weight="700">ENGINEERING</text>
+ <text x="600" y="43" font-size="24" font-weight="700" letter-spacing="4">SECURE • RELIABLE • INTELLIGENT</text>
+ <text x="600" y="385" font-size="17" fill="#a5dffb">Application Security  /  Distributed Systems  /  AI Infrastructure</text>
+ <text x="155" y="285" font-size="13" fill="#7dd3fc">THREAT MODELLING</text><text x="1045" y="285" font-size="13" fill="#c4b5fd">SYSTEM DESIGN</text>
+</g>
+<g fill="#67e8f9" filter="url(#glow)"><circle cx="345" cy="205" r="5"/><circle cx="410" cy="160" r="5"/><circle cx="790" cy="160" r="5"/><circle cx="860" cy="205" r="5"/><circle cx="365" cy="305" r="4"/><circle cx="835" cy="305" r="4"/></g>
+</svg>
