@@ -1,145 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="650" viewBox="0 0 1600 650" role="img" aria-labelledby="title desc">
-<title id="title">Aryan Adityaa — Security and Development Engineering</title>
-<desc id="desc">A dark futuristic engineering workspace with a holographic globe, developer workstation, security and development panels, and technology disciplines.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+<title id="title">Aryan Adityaa — Build Secure Systems</title>
+<desc id="desc">Minimal dark portfolio banner with a clean typographic identity, subtle code lines, and a geometric shield-and-circuit symbol.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".48" stop-color="#07172e"/><stop offset="1" stop-color="#080d1b"/></linearGradient>
-  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset=".55" stop-color="#0ea5e9"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
-  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
-  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fda4af"/><stop offset="1" stop-color="#e11d48"/></linearGradient>
-  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#12345a" stop-opacity=".92"/><stop offset="1" stop-color="#071629" stop-opacity=".94"/></linearGradient>
-  <radialGradient id="globe"><stop stop-color="#38bdf8" stop-opacity=".28"/><stop offset=".72" stop-color="#1d4ed8" stop-opacity=".12"/><stop offset="1" stop-color="#020617" stop-opacity="0"/></radialGradient>
-  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#16416b" stroke-width="1" opacity=".28"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#101b31"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1e3a5f" stroke-width=".7" opacity=".35"/></pattern>
 </defs>
-
-<rect width="1600" height="650" rx="22" fill="url(#bg)"/>
-<rect width="1600" height="650" rx="22" fill="url(#grid)"/>
-<ellipse cx="1070" cy="280" rx="410" ry="270" fill="#0877d1" opacity=".09" filter="url(#soft)"/>
-<path d="M0 485H1600" stroke="#1e4772" stroke-width="2" opacity=".8"/>
-
-<!-- left identity panel -->
-<g font-family="Segoe UI,Arial,sans-serif">
-  <text x="68" y="82" fill="#b7cce3" font-size="24" letter-spacing="5">HI, I'M</text>
-  <text x="64" y="170" fill="#f8fafc" font-size="78" font-weight="800" letter-spacing="1">ARYAN</text>
-  <text x="64" y="250" fill="url(#cyan)" font-size="78" font-weight="800" letter-spacing="1">ADITYAA</text>
-  <text x="68" y="294" fill="#b7e8ff" font-size="20" letter-spacing="3">BUILD  •  SECURE  •  AUTOMATE  •  INNOVATE</text>
-  <text x="68" y="347" fill="#dbeafe" font-size="22">Backend systems, secure applications</text>
-  <text x="68" y="378" fill="#dbeafe" font-size="22">and AI-powered engineering.</text>
-  <text x="68" y="417" fill="#8fb4d6" font-size="17">Distributed systems · AppSec · AI infrastructure</text>
-  <g transform="translate(68 441)" font-size="15" font-weight="600">
-    <rect width="104" height="32" rx="8" fill="#0a1b30" stroke="#24608c"/><text x="52" y="21" fill="#dbeafe" text-anchor="middle">GITHUB</text>
-    <rect x="116" width="112" height="32" rx="8" fill="#0a1b30" stroke="#24608c"/><text x="172" y="21" fill="#7dd3fc" text-anchor="middle">LINKEDIN</text>
-    <rect x="240" width="104" height="32" rx="8" fill="#0a1b30" stroke="#24608c"/><text x="292" y="21" fill="#dbeafe" text-anchor="middle">LEETCODE</text>
+<rect width="1400" height="420" rx="22" fill="url(#bg)"/>
+<rect width="1400" height="420" rx="22" fill="url(#grid)"/>
+<circle cx="1160" cy="190" r="210" fill="#0ea5e9" opacity=".07"/>
+<circle cx="1160" cy="190" r="150" fill="none" stroke="#2563eb" stroke-width="1" opacity=".22"/>
+<circle cx="1160" cy="190" r="110" fill="none" stroke="#22d3ee" stroke-width="1" opacity=".22"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="76" y="75" fill="#9fb4d0" font-size="17" letter-spacing="5">SOFTWARE ENGINEERING • SECURITY • AI</text>
+  <text x="72" y="164" fill="#f8fafc" font-size="70" font-weight="800" letter-spacing="1">ARYAN ADITYAA</text>
+  <rect x="76" y="190" width="420" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="239" fill="#dbeafe" font-size="25" font-weight="500">Build reliable systems. Design for security.</text>
+  <text x="76" y="278" fill="#9fb4d0" font-size="19">Backend &amp; distributed systems  /  AI engineering  /  Application security</text>
+  <g transform="translate(76 320)" font-size="14" font-weight="600" letter-spacing="1">
+    <rect width="120" height="34" rx="17" fill="#0b2033" stroke="#155e75"/><text x="60" y="22" text-anchor="middle" fill="#a5f3fc">BACKEND</text>
+    <rect x="132" width="120" height="34" rx="17" fill="#111b39" stroke="#4338ca"/><text x="192" y="22" text-anchor="middle" fill="#c7d2fe">AI SYSTEMS</text>
+    <rect x="264" width="150" height="34" rx="17" fill="#201327" stroke="#9d174d"/><text x="339" y="22" text-anchor="middle" fill="#fbcfe8">APP SECURITY</text>
   </g>
 </g>
-
-<!-- holographic globe and network -->
-<circle cx="1050" cy="205" r="160" fill="url(#globe)"/>
-<g fill="none" stroke="#38bdf8" opacity=".82" filter="url(#glow)">
-  <circle cx="1050" cy="205" r="115" stroke-width="2.5"/>
-  <ellipse cx="1050" cy="205" rx="53" ry="115" stroke-width="1.6"/>
-  <ellipse cx="1050" cy="205" rx="88" ry="115" stroke-width="1.2"/>
-  <ellipse cx="1050" cy="205" rx="115" ry="42" stroke-width="1.3"/>
-  <ellipse cx="1050" cy="205" rx="115" ry="78" stroke-width="1.2"/>
-  <path d="M935 205H1165M1050 90V320" stroke-width="1.2" opacity=".55"/>
-</g>
-<g fill="#67e8f9" filter="url(#glow)">
-  <circle cx="1050" cy="90" r="4"/><circle cx="1165" cy="205" r="4"/><circle cx="1050" cy="320" r="4"/><circle cx="935" cy="205" r="4"/>
-  <circle cx="981" cy="119" r="3"/><circle cx="1121" cy="130" r="3"/><circle cx="1125" cy="281" r="3"/><circle cx="975" cy="282" r="3"/>
-</g>
-<g stroke="#1d9ee9" stroke-width="1.5" fill="none" opacity=".75">
-  <path d="M790 154L925 154L981 119M1165 205L1235 154L1290 154"/>
-  <path d="M820 267L935 267L975 282M1125 281L1225 307L1302 307"/>
-  <path d="M1050 70V44M1050 340V365"/>
-</g>
-<g fill="#60a5fa" opacity=".7" filter="url(#glow)"><circle cx="790" cy="154" r="4"/><circle cx="1290" cy="154" r="4"/><circle cx="820" cy="267" r="4"/><circle cx="1302" cy="307" r="4"/></g>
-
-<!-- security glass card -->
-<g transform="translate(590 66)">
-  <rect width="235" height="178" rx="15" fill="url(#glass)" stroke="#0ea5e9" stroke-width="1.8"/>
-  <rect x="1" y="1" width="233" height="42" rx="14" fill="#0e3459" opacity=".72"/>
-  <path d="M22 29L34 10L46 29L34 36Z" fill="none" stroke="url(#red)" stroke-width="2.7"/>
-  <text x="60" y="28" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="20" font-weight="700">SECURITY</text>
-  <g fill="#b9d9f3" font-family="Segoe UI,Arial" font-size="14">
-    <circle cx="24" cy="68" r="4" fill="#fb7185"/><text x="40" y="73">Vulnerability Research</text>
-    <circle cx="24" cy="97" r="4" fill="#fb7185"/><text x="40" y="102">Web &amp; API Security</text>
-    <circle cx="24" cy="126" r="4" fill="#fb7185"/><text x="40" y="131">Threat Modelling</text>
-    <circle cx="24" cy="155" r="4" fill="#fb7185"/><text x="40" y="160">Secure Architecture</text>
+<!-- restrained shield / circuit mark -->
+<g transform="translate(1065 78)">
+  <path d="M95 0L177 29V104C177 159 142 204 95 229C48 204 13 159 13 104V29Z" fill="#0b1830" stroke="url(#shield)" stroke-width="3"/>
+  <path d="M95 24L153 45V103C153 143 128 174 95 194C62 174 37 143 37 103V45Z" fill="none" stroke="#2563eb" stroke-width="1.5" opacity=".8"/>
+  <path d="M65 91L86 112L127 70" fill="none" stroke="url(#shield)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#38bdf8" stroke-width="2.5" fill="#0b1830">
+    <path d="M13 73H-18V50H-42M177 73H205V50H229M13 139H-18V162H-42M177 139H205V162H229" fill="none"/>
+    <circle cx="-42" cy="50" r="5"/><circle cx="229" cy="50" r="5"/><circle cx="-42" cy="162" r="5"/><circle cx="229" cy="162" r="5"/>
   </g>
 </g>
-
-<!-- development glass card -->
-<g transform="translate(1290 66)">
-  <rect width="250" height="178" rx="15" fill="url(#glass)" stroke="#2563eb" stroke-width="1.8"/>
-  <rect x="1" y="1" width="248" height="42" rx="14" fill="#122d58" opacity=".8"/>
-  <path d="M24 17L14 25L24 33M42 17L52 25L42 33M35 14L31 36" fill="none" stroke="url(#cyan)" stroke-width="2.5" stroke-linecap="round"/>
-  <text x="68" y="28" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="20" font-weight="700">DEVELOPMENT</text>
-  <g fill="#c7d2fe" font-family="Segoe UI,Arial" font-size="14">
-    <circle cx="24" cy="68" r="4" fill="#38bdf8"/><text x="40" y="73">Backend Systems</text>
-    <circle cx="24" cy="97" r="4" fill="#38bdf8"/><text x="40" y="102">Distributed Systems</text>
-    <circle cx="24" cy="126" r="4" fill="#38bdf8"/><text x="40" y="131">Cloud &amp; DevOps</text>
-    <circle cx="24" cy="155" r="4" fill="#38bdf8"/><text x="40" y="160">AI Agents &amp; LLMs</text>
-  </g>
+<g fill="#67e8f9" opacity=".75">
+  <circle cx="920" cy="80" r="2"/><circle cx="958" cy="110" r="2"/><circle cx="1000" cy="65" r="2"/><circle cx="1305" cy="315" r="2"/><circle cx="1260" cy="344" r="2"/>
 </g>
-
-<!-- workstation screens -->
-<g>
-  <rect x="790" y="285" width="500" height="170" rx="13" fill="#07111f" stroke="#1c5a92" stroke-width="3"/>
-  <rect x="802" y="297" width="152" height="146" rx="5" fill="#081a2d"/>
-  <rect x="963" y="297" width="150" height="146" rx="5" fill="#081a2d"/>
-  <rect x="1122" y="297" width="156" height="146" rx="5" fill="#081a2d"/>
-  <g stroke-linecap="round" stroke-width="2">
-    <path d="M820 320H917M820 337H904M820 354H930M820 371H892M820 388H915M820 405H883M820 422H923" stroke="#38bdf8"/>
-    <path d="M980 320H1090M980 337H1075M980 354H1097M980 371H1060M980 388H1090M980 405H1070M980 422H1090" stroke="#a78bfa"/>
-    <path d="M1140 404L1167 374L1190 387L1210 349L1233 366L1260 331" fill="none" stroke="#22d3ee" stroke-width="3"/>
-    <path d="M1140 420H1260" stroke="#1e4772"/>
-  </g>
-  <path d="M1025 455V476H1055V455" stroke="#1e5a8d" stroke-width="8" fill="none"/>
-  <path d="M920 478H1160L1185 490H895Z" fill="#0c2847" stroke="#24608c" stroke-width="2"/>
-</g>
-
-<!-- developer silhouette at the desk -->
-<g>
-  <ellipse cx="1040" cy="492" rx="182" ry="18" fill="#0284c7" opacity=".17" filter="url(#soft)"/>
-  <path d="M915 488C920 435 940 406 978 385C993 376 1006 374 1040 374C1074 374 1088 378 1105 390C1141 415 1157 445 1164 488Z" fill="#07101e" stroke="#17466f" stroke-width="2"/>
-  <path d="M988 379C973 356 979 320 1000 301C1017 285 1064 284 1081 304C1099 326 1102 358 1085 381L1070 396H1001Z" fill="#030712" stroke="#163c60" stroke-width="2"/>
-  <path d="M971 405C992 388 1016 385 1040 385C1067 385 1090 394 1108 411L1137 487H944Z" fill="#0b1a30" stroke="#164c78" stroke-width="2"/>
-  <path d="M1004 425L1040 444L1077 425" fill="none" stroke="#0e7490" stroke-width="2" opacity=".75"/>
-  <text x="1040" y="463" font-family="Segoe UI,Arial" font-size="13" fill="#60a5fa" text-anchor="middle" letter-spacing="1">SECURE · BUILD · SCALE</text>
-</g>
-
-<!-- lower technology strip -->
-<rect x="30" y="510" width="1540" height="112" rx="16" fill="#050e1d" stroke="#1c4771" stroke-width="1.5"/>
-<g font-family="Segoe UI,Arial,sans-serif">
-  <g transform="translate(52 529)">
-    <circle cx="28" cy="31" r="25" fill="#08284a" stroke="#0ea5e9"/><path d="M16 20H40V42H16Z M20 26H36M20 32H36M20 38H30" stroke="#67e8f9" fill="none" stroke-width="2"/>
-    <text x="67" y="25" fill="#e0f2fe" font-size="16" font-weight="700">LANGUAGES</text><text x="67" y="49" fill="#93c5fd" font-size="14">Python · C++ · Java · Go · TypeScript</text>
-  </g>
-  <path d="M300 526V608" stroke="#234667"/>
-  <g transform="translate(322 529)">
-    <circle cx="28" cy="31" r="25" fill="#08284a" stroke="#0ea5e9"/><ellipse cx="28" cy="22" rx="12" ry="5" fill="none" stroke="#67e8f9" stroke-width="2"/><path d="M16 22V40C16 47 40 47 40 40V22M16 31C16 38 40 38 40 31" stroke="#67e8f9" fill="none" stroke-width="2"/>
-    <text x="67" y="25" fill="#e0f2fe" font-size="16" font-weight="700">BACKEND</text><text x="67" y="49" fill="#93c5fd" font-size="14">FastAPI · Spring Boot · PostgreSQL · Redis</text>
-  </g>
-  <path d="M580 526V608" stroke="#234667"/>
-  <g transform="translate(602 529)">
-    <circle cx="28" cy="31" r="25" fill="#101c46" stroke="#6366f1"/><g fill="none" stroke="#a5b4fc" stroke-width="2"><circle cx="28" cy="31" r="4"/><circle cx="14" cy="19" r="4"/><circle cx="42" cy="19" r="4"/><circle cx="14" cy="43" r="4"/><circle cx="42" cy="43" r="4"/><path d="M18 22L25 28M38 22L31 28M18 40L25 34M38 40L31 34"/></g>
-    <text x="67" y="25" fill="#e0e7ff" font-size="16" font-weight="700">DISTRIBUTED SYSTEMS</text><text x="67" y="49" fill="#c4b5fd" font-size="14">Messaging · Concurrency · System Design</text>
-  </g>
-  <path d="M860 526V608" stroke="#234667"/>
-  <g transform="translate(882 529)">
-    <circle cx="28" cy="31" r="25" fill="#3b1028" stroke="#e11d48"/><path d="M28 12L44 19V31C44 41 37 47 28 51C19 47 12 41 12 31V19Z" fill="none" stroke="#fb7185" stroke-width="3"/><path d="M28 19V43" stroke="#fb7185" stroke-width="2"/>
-    <text x="67" y="25" fill="#ffe4e6" font-size="16" font-weight="700">APPLICATION SECURITY</text><text x="67" y="49" fill="#fda4af" font-size="14">Web &amp; API · Pentesting · Threat Modelling</text>
-  </g>
-  <path d="M1140 526V608" stroke="#234667"/>
-  <g transform="translate(1162 529)">
-    <circle cx="28" cy="31" r="25" fill="#28134a" stroke="#8b5cf6"/><g fill="none" stroke="#c4b5fd" stroke-width="2"><path d="M28 12C17 12 14 22 18 28C12 32 16 45 26 45H30C40 45 44 32 38 28C42 22 39 12 28 12Z"/><path d="M20 22H36M28 13V44M19 34H37"/></g>
-    <text x="67" y="25" fill="#f3e8ff" font-size="16" font-weight="700">AI ENGINEERING</text><text x="67" y="49" fill="#d8b4fe" font-size="14">Agents · LLMs · RAG · MCP · Evaluation</text>
-  </g>
-  <path d="M1404 526V608" stroke="#234667"/>
-  <g transform="translate(1422 529)">
-    <circle cx="28" cy="31" r="25" fill="#063b36" stroke="#10b981"/><circle cx="28" cy="31" r="13" fill="none" stroke="#5eead4" stroke-width="2"/><path d="M15 31H41M28 18V44M19 22C24 27 24 35 19 40M37 22C32 27 32 35 37 40" stroke="#5eead4" fill="none" stroke-width="1.5"/>
-    <text x="67" y="25" fill="#ccfbf1" font-size="16" font-weight="700">DATA ENGINEERING</text><text x="67" y="49" fill="#99f6e4" font-size="14">ETL · Analytics · Vector Databases</text>
-  </g>
-</g>
+<path d="M930 356H1324" stroke="#1e3a5f" stroke-width="1"/>
+<text x="1324" y="382" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#647fa5" letter-spacing="3">BUILD • SECURE • SCALE</text>
 </svg>
