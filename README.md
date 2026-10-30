@@ -36,7 +36,7 @@ My projects span backend engineering, distributed systems, AI infrastructure, ap
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ryan27-27/Ryan27-27/main/assets/cyber-engineering.svg" width="100%" alt="3D-inspired cybersecurity and engineering systems illustration" />
+  <img src="https://raw.githubusercontent.com/Ryan27-27/Ryan27-27/main/assets/cyber-engineering-banner.svg" width="100%" alt="3D-inspired cybersecurity and engineering systems illustration" />
 </p>
 
 ## Security Research & Responsible Disclosure
